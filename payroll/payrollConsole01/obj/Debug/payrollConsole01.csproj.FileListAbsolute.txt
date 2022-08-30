@@ -1,0 +1,8 @@
+C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollConsole01\bin\Debug\payrollConsole01.exe.config
+C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollConsole01\bin\Debug\payrollConsole01.exe
+C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollConsole01\bin\Debug\payrollConsole01.pdb
+C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollConsole01\obj\Debug\payrollConsole01.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollConsole01\obj\Debug\payrollConsole01.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollConsole01\obj\Debug\payrollConsole01.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollConsole01\obj\Debug\payrollConsole01.exe
+C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollConsole01\obj\Debug\payrollConsole01.pdb
