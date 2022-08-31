@@ -2,7 +2,6 @@ C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollGUI01\bin\Debug\payrollGUI
 C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollGUI01\bin\Debug\payrollGUI01.exe
 C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollGUI01\bin\Debug\payrollGUI01.pdb
 C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollGUI01\obj\Debug\payrollGUI01.csproj.AssemblyReference.cache
-C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollGUI01\obj\Debug\payrollGUI01.csproj.SuggestedBindingRedirects.cache
 C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollGUI01\obj\Debug\payrollGUI01.Form1.resources
 C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollGUI01\obj\Debug\payrollGUI01.Properties.Resources.resources
 C:\Users\jpscott\Desktop\murachpayroll\payroll\payrollGUI01\obj\Debug\payrollGUI01.csproj.GenerateResource.cache

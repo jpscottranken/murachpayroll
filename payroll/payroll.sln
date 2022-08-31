@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payrollConsole01", "payroll
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payrollGUI01", "payrollGUI01\payrollGUI01.csproj", "{474ECEB3-563A-43D2-834B-171862F1A04C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payrollGUI02", "payrollGUI02\payrollGUI02.csproj", "{F729F8B8-660B-43AF-943C-392CB1134824}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{474ECEB3-563A-43D2-834B-171862F1A04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{474ECEB3-563A-43D2-834B-171862F1A04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{474ECEB3-563A-43D2-834B-171862F1A04C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F729F8B8-660B-43AF-943C-392CB1134824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F729F8B8-660B-43AF-943C-392CB1134824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F729F8B8-660B-43AF-943C-392CB1134824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F729F8B8-660B-43AF-943C-392CB1134824}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
